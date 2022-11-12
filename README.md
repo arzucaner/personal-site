@@ -1,2 +1,2 @@
 # personal-site
-This project is my first experience with using HTML and CSS.
+This project is my first experience with using HTML and CSS. This is Personel Website.
